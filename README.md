@@ -1,6 +1,10 @@
 # reminderapp
 
-A new Flutter project.
+A new Flutter project on a reminder app.
+We conducted our program through Figma and Flutter.
+We finished our figma project but our flutter project was not made in time.
+We did our best to complete whatever we could.
+
 
 ## Getting Started
 
