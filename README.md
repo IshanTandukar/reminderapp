@@ -5,6 +5,7 @@ We conducted our program through Figma and Flutter.
 We finished our figma project but our flutter project was not made in time.
 We did our best to complete whatever we could.
 
+link to figma-https://www.figma.com/file/eyRZPjTUVjfElw5vEvkQXf/reminder-app?node-id=0%3A1
 
 ## Getting Started
 
